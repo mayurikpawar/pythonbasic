@@ -1,0 +1,8 @@
+if a=52;
+b=32;
+then,binary(a) = 0111;
+binary(b) = 0011;
+hence,a&b = 0011;
+	a|b=0011;
+	a^b=0100;
+	~a=1000;
